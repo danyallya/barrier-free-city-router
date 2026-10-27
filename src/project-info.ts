@@ -1,0 +1,1 @@
+export const projectInfo = { slug:"barrier-free-city-router", title:"Barrier-Free City Router", summary:"A route planner for ramps, stairs, working lifts and temporary obstacles.", scope:"accessibility-map", locale:"en", direction:"ltr", firstTask:"Model a route segment with accessibility observation and expiry.", entity:"route-segments" } as const;
