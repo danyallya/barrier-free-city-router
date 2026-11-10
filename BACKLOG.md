@@ -4,8 +4,8 @@ Prioritize user risk and evidence over polish. Estimates are focused engineering
 
 ## P0 — safe foundation
 
-- [ ] ACCESSIBILITY-MAP-001 — Model a route segment with accessibility observation and expiry.
-- [ ] ACCESSIBILITY-MAP-002 — Validate route-segments and add empty/error/deletion states.
+- [x] ACCESSIBILITY-MAP-001 — Model a route segment with accessibility observation and expiry.
+- [x] ACCESSIBILITY-MAP-002 — Validate route-segments and add empty/error/deletion states.
 - [ ] ACCESSIBILITY-MAP-003 — Add PostgreSQL migrations and repository tests.
 - [ ] ACCESSIBILITY-MAP-004 — Specify offline conflicts, retry, duplicate-submit and recovery.
 

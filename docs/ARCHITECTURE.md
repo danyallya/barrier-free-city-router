@@ -8,4 +8,4 @@
 - External providers use server-side adapters and environment-only secrets.
 - Docker multi-stage build; isolated web/database services per project.
 
-First product record: route-segments. Implement local flow, PostgreSQL mapping and sync policy in one vertical slice.
+First product slice: dated route-segment observations stored in Dexie in this browser profile. It includes no route engine, live validation or map provider. PostgreSQL mapping and sync remain future work.
